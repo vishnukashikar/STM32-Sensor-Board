@@ -55,11 +55,6 @@ The board exposes SWD on header J4 (3V3, DIO, CLK, GND). The USB-C port is used 
 
 Open `hardware/stm32_sensor_board.kicad_pro` in KiCad.
 
-## Next steps
-
-- [ ] Fabricate and assemble v1
-- [ ] Verify power rails and SWD connectivity
-- [ ] Note any layout fixes for a v2
 
 ## License
 
