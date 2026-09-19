@@ -1,0 +1,18 @@
+# KiCad local/UI state and caches (not part of the design)
+*.kicad_prl
+*-backups/
+_autosave-*
+*.lck
+*-cache.lib
+fp-info-cache
+*.bak
+~*
+
+# Fabrication outputs (regenerate from KiCad, or attach to Releases)
+gerbers/
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
